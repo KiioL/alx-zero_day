@@ -1,2 +1,2 @@
-Git File
-=========
+Git File. Made some changes
+===========================
